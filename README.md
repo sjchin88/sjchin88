@@ -4,11 +4,12 @@
 
 # 💻 &nbsp;About Me 
 
-* ❤ &nbsp; Interested in back-end, cloud-computing, distributed systems, devops practise, computer vision and machine learnings
+* ❤ &nbsp; Interested in the back-end, cloud computing, distributed systems, DevOps practice, computer vision, machine learnings and generative LLM
 * 🎓 &nbsp; Pursuing <b>Master of Science in Computer Science</b> at Northeastern University.
-* 🎓 &nbsp; Obtained <b>Software Engineering degree</b> from Penn State University World Campus (using spare time while I worked in Oil and Gas Industry)
-* 💼 &nbsp; Looking for SDE <b>internship/co-op</b> opportunities from <b>Jan-2024 to Aug-2024 </b>
-* 💼 &nbsp; or Full Time Opportunities from May-2024 to Dec-2024 (Note my graduation date is flexible)
+* 🎓 &nbsp; Obtained <b>Software Engineering degree</b> from Penn State University World Campus (using spare time while I worked in the Oil and Gas Industry)
+* 💼 &nbsp; Just finished my internship with Intel Corporation, in the DevOps and Infrastructure team and PERC ESD TTR team from Jan - Aug 2024.
+* 💼 &nbsp; Looking for SDE <b>Full Time</b> opportunities starting <b>Jan-2025 </b>
+
 
 ## 🤝🏻 &nbsp;Connect with Me ##
 [Linkedin](https://www.linkedin.com/in/shiang-jin-chin-b1575944/)
@@ -35,6 +36,14 @@
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+## 🖥 Devops Tool Stack ### 
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
+![CloudBees Badge](https://img.shields.io/badge/CloudBees-1997B5?logo=cloudbees&logoColor=fff&style=flat)
+![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=flat)
+![Kibana Badge](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 
 ## 🖥 Cloud/Database ### 
 #### Proficient /Intermediate 
@@ -101,8 +110,6 @@
 * <b> Familiar </b> - I consider myself familiar if I have gone through the introductory tutorials and completed one or two projects with it.
 
 # 🤝🏻 &nbsp;Projects and Works Highlight
-
-
 For a more completed list of projects that I have done, visit [here](https://sjchin88.github.io/)
 
 ## ♥ &nbsp; Other interest ###
