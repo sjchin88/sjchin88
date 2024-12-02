@@ -12,7 +12,7 @@
 
 
 ## 🤝🏻 &nbsp;Connect with Me ##
-[Linkedin](https://www.linkedin.com/in/shiang-jin-chin-b1575944/)
+[Linkedin](https://www.linkedin.com/in/shiang-jin-chin-b1575944/) [Porfolio Website](https://sjchin88.github.io/)
 
 # 🛠 &nbsp; My current Skill Tech Stack 
 ## 🥇 &nbsp; Certificates I Have
