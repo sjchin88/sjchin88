@@ -5,11 +5,8 @@
 # 💻 &nbsp;About Me 
 
 * ❤ &nbsp; Interested in the back-end, cloud computing, distributed systems, DevOps practice, computer vision, machine learnings and generative LLM
-* 🎓 &nbsp; Pursuing <b>Master of Science in Computer Science</b> at Northeastern University.
+* 🎓 &nbsp; Obtained <b>Master of Science in Computer Science</b> at Northeastern University.
 * 🎓 &nbsp; Obtained <b>Software Engineering degree</b> from Penn State University World Campus (using spare time while I worked in the Oil and Gas Industry)
-* 💼 &nbsp; Just finished my internship with Intel Corporation, in the DevOps and Infrastructure team and PERC ESD TTR team from Jan - Aug 2024.
-* 💼 &nbsp; Looking for SDE <b>Full Time</b> opportunities starting <b>Jan-2025 </b>
-
 
 ## 🤝🏻 &nbsp;Connect with Me ##
 [Linkedin](https://www.linkedin.com/in/shiang-jin-chin-b1575944/) [Porfolio Website](https://sjchin88.github.io/)
